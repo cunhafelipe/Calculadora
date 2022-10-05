@@ -55,7 +55,7 @@ h1 {
   background: #ffffff;
 }
 
-@media (max-width: 490px) {
+@media (max-width: 580px) {
   main {
     display: flex;
     flex-direction: column;
